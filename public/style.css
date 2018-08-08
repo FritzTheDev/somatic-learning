@@ -1,0 +1,29 @@
+h3 {
+    margin-top: .5rem;
+}
+
+.logo {
+    width: 80%;
+    height: 80%;
+}
+@media (max-width: 1199.99px) {
+    .mobile-subscribe {
+        margin-left: -16px;
+        padding-left: 16px;
+    }
+}
+.subscribe-ul {
+    background: white;
+    height: 100%;
+}
+.white {
+    color: white !important;
+}
+.subscribe-text {
+    color: black !important;
+}
+.navbar-height-fix {
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
